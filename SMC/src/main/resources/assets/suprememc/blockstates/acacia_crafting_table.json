@@ -1,0 +1,9 @@
+{
+	"variants": 
+	{
+        "":
+        { 
+        	"model": "suprememc:block/acacia_crafting_table" 
+        }
+    }
+}

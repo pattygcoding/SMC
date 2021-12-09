@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "suprememc:copper_pickaxe"
+    },
+    {
+      "item": "suprememc:copper_shovel"
+    },
+    {
+      "item": "suprememc:copper_axe"
+    },
+    {
+      "item": "suprememc:copper_hoe"
+    },
+    {
+      "item": "suprememc:copper_sword"
+    },
+    {
+      "item": "suprememc:copper_helmet"
+    },
+    {
+      "item": "suprememc:copper_chestplate"
+    },
+    {
+      "item": "suprememc:copper_leggings"
+    },
+    {
+      "item": "suprememc:copper_boots"
+    },
+    {
+      "item": "suprememc:copper_horse_armor"
+    }
+  ],
+  "result": "suprememc:copper_nugget",
+  "experience": 0.1,
+  "cookingtime": 100
+}

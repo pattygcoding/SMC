@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:smooth_lapis_block"
+  },
+  "result": "suprememc:smooth_lapis_wall",
+  "count": 1
+}

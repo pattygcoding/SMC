@@ -1,0 +1,9 @@
+{
+	"variants": 
+	{
+        "":
+        { 
+        	"model": "suprememc:block/smooth_aquamarine_block" 
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "suprememc:diamond_blocks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 9
+  }
+}

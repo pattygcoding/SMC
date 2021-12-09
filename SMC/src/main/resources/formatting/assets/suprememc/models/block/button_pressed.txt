@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/button_pressed",
+    "textures": {
+        "texture": "suprememc:block/name_of_0item"
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "planks_from_fossil",
+	"pattern": 
+	[
+    	"AAA",
+    	"ABA",
+    	"AAA"
+  	],
+	"key": 
+	{
+		"A": {"item": "suprememc:fossilized_cherry_ore"},
+		"B": {"item": "minecraft:water_bucket"}
+	},
+	"result": 
+	{
+		"item": "suprememc:cherry_planks",
+		"count": 1
+	}
+}

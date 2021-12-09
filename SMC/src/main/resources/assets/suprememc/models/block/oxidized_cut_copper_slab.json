@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures":
+    {
+        "bottom": "suprememc:block/oxidized_cut_copper",
+        "top": "suprememc:block/oxidized_cut_copper",
+        "side": "suprememc:block/oxidized_cut_copper"
+    }
+}

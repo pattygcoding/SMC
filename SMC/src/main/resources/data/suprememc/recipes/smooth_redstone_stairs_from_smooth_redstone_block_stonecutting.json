@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:smooth_redstone_block"
+  },
+  "result": "suprememc:smooth_redstone_stairs",
+  "count": 1
+}

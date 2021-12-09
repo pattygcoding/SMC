@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D",
+        "R",
+        "R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "suprememc:cobbled_andesite"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:andesite_shovel",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "suprememc:block/deepslate_mirrored",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "suprememc:block/deepslate"
+    },
+    "axis=z": {
+      "model": "suprememc:block/deepslate_mirrored",
+      "x": 90
+    }
+  }
+}

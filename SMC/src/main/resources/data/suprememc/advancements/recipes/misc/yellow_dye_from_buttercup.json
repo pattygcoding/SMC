@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "suprememc:yellow_dye_from_buttercup"
+    ]
+  },
+  "criteria": {
+    "has_aquamarine_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "suprememc:buttercup"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "suprememc:yellow_dye_from_buttercup"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_aquamarine_block",
+      "has_the_recipe"
+    ]
+  ]
+}

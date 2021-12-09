@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "suprememc:nether_sulfur_ore"
+  },
+  "result": "suprememc:sulfur",
+  "experience": 1.0,
+  "cookingtime": 200
+}

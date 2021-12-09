@@ -1,0 +1,9 @@
+{
+	"variants": 
+	{
+        "":
+        { 
+        	"model": "suprememc:block/oxidized_cut_copper" 
+        }
+    }
+}

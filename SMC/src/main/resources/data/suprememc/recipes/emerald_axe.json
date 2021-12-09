@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD",
+        "DR",
+        " R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:emerald"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:emerald_axe",
+        "count": 1
+    }
+}

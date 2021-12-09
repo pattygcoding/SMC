@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "suprememc:block/vanilla_stage6"
+  }
+}

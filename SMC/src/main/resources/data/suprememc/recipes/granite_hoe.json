@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD",
+        " R",
+        " R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "suprememc:cobbled_granite"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:granite_hoe",
+        "count": 1
+    }
+}

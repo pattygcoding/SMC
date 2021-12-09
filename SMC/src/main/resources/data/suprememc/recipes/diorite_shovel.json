@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D",
+        "R",
+        "R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "suprememc:cobbled_diorite"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:diorite_shovel",
+        "count": 1
+    }
+}

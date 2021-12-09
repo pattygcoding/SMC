@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:polished_deepslate"
+    }
+  },
+  "result": {
+    "item": "suprememc:polished_deepslate_stairs",
+    "count": 4
+  }
+}

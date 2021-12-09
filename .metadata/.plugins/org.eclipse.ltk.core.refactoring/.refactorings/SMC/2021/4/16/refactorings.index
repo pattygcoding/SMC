@@ -1,0 +1,169 @@
+1618513931868	Rename package 'com.example.examplemod'
+1618514004466	Rename type 'ExampleMod'
+1618514772866	Rename package 'assets'
+1618517468762	Rename resource 'modelitem.txt'
+1618517482268	Rename resource 'blockstate_cube.txt'
+1618517604553	Rename resource 'modelitem_block.txt'
+1618517672231	Rename resource 'modelblock_full.txt'
+1618517813319	Rename package 'formatting.data.suprememc.loot_tables.blocks'
+1618517883062	Rename resource 'aquamarine_block.json'
+1618517994719	Rename resource 'aquamarine_block.json'
+1618518003232	Rename resource 'aquamarine.json'
+1618519345766	Rename resource 'aquamarine_ore.json'
+1618519435701	Rename resource 'aquamarine_from_blasting.json'
+1618519447507	Rename resource 'aquamarine_from_smelting.json'
+1618520134984	Delete element
+1618520347136	Delete element
+1618531692792	Delete elements
+1618532035966	Rename resource 'aquamarine_axe.json'
+1618532044471	Rename resource 'aquamarine_hoe.json'
+1618532055005	Rename resource 'aquamarine_pickaxe.json'
+1618532064315	Rename resource 'aquamarine_shovel.json'
+1618532071637	Rename resource 'aquamarine_sword.json'
+1618532518485	Rename resource 'aquamarine_boots.json'
+1618532578908	Rename resource 'aquamarine_chestplate.json'
+1618532599956	Rename resource 'aquamarine_leggings.json'
+1618532616718	Rename resource 'aquamarine_helmet.json'
+1618532635430	Rename resource 'aquamarine_horse_armor.json'
+1618533535370	Delete element
+1618547416955	Rename resource 'acacia_log.json'
+1618547462805	Copy file
+1618547809328	Rename resource 'acacia_log_horizontal.json'
+1618547817942	Rename resource 'acacia_log.json'
+1618547826378	Rename resource 'acacia_wood.json'
+1618548008427	Rename resource 'palm_wood.json'
+1618548143562	Delete element
+1618548178460	Delete elements
+1618548479251	Copy file
+1618548603688	Delete element
+1618548615472	Delete element
+1618548619464	Delete element
+1618548625327	Copy file
+1618548646118	Copy file
+1618548669465	Copy file
+1618548677287	Copy file
+1618548685943	Copy file
+1618548799136	Rename resource 'acacia_planks.json'
+1618548833145	Rename resource 'acacia_wood.json'
+1618552309218	Delete element
+1618553144542	Rename resource 'palm_stairs.json'
+1618553180452	Rename resource 'palm_slab.json'
+1618553416300	Rename resource 'palm_slab_top.json'
+1618553432642	Rename resource 'palm_stairs.json'
+1618553456120	Rename resource 'palm_stairs_outer.json'
+1618553471891	Rename resource 'palm_stairs_inner.json'
+1618553485049	Rename resource 'palm_slab.json'
+1618553727862	Rename resource 'palm_slab.json'
+1618553832856	Rename resource 'recipe_slab_stonecutter.txt'
+1618553861448	Rename resource 'recipe_slab_wood.txt'
+1618553875010	Rename resource 'slab_wood.txt'
+1618553901097	Rename resource 'recipe_stairs.txt'
+1618553909642	Rename resource 'recipe_stairs_stonecutter.txt'
+1618554228593	Delete element
+1618554232116	Delete element
+1618554262146	Copy files
+1618554263221	Copy files
+1618554273789	Delete element
+1618554338179	Delete elements
+1618554345361	Delete elements
+1618554351959	Copy files
+1618554353244	Copy files
+1618554377807	Delete element
+1618554382205	Delete element
+1618554420891	Copy files
+1618554421815	Copy files
+1618554429726	Delete element
+1618554433054	Delete element
+1618596171031	Rename resource 'palm_fence_gate.json'
+1618596200862	Rename resource 'palm_fence.json'
+1618596656443	Delete elements
+1618596672508	Rename resource 'palm_fence_gate_open.json'
+1618596685318	Rename resource 'palm_fence_gate_wall_open.json'
+1618596696742	Rename resource 'palm_fence_gate_wall.json'
+1618596707621	Rename resource 'palm_fence_gate.json'
+1618596717807	Rename resource 'palm_fence_inventory.json'
+1618596727029	Rename resource 'palm_fence_post.json'
+1618596736534	Rename resource 'palm_fence_side.json'
+1618596856502	Rename resource 'palm_fence.json'
+1618596864205	Rename resource 'fence.txt'
+1618598140183	Copy file
+1618598190533	Rename resource 'palm_fence_gate.json'
+1618598197515	Rename resource 'palm_fence.json'
+1618599170384	Rename resource 'default_slab.txt'
+1618599249180	Rename resource 'default_wood.txt'
+1618599297390	Rename resource 'wood.txt'
+1618599387609	Rename resource 'default_ore.txt'
+1618599669545	Copy file
+1618600219536	Delete element
+1618602553375	Rename resource 'palm_button.json'
+1618602559384	Rename resource 'palm_door.json'
+1618602568195	Delete element
+1618602580997	Rename resource 'palm_pressure_plate.json'
+1618602590438	Rename resource 'palm_sapling.json'
+1618602597551	Rename resource 'palm_trapdoor.json'
+1618602641129	Delete element
+1618602732526	Rename resource 'palm_bookshelf.json'
+1618602761608	Rename resource 'palm_button_inventory.json'
+1618602790369	Rename resource 'palm_button_pressed.json'
+1618602805470	Rename resource 'palm_button.json'
+1618602854082	Rename resource 'palm_door_bottom_hinge.json'
+1618602866254	Rename resource 'palm_door_bottom.json'
+1618602875805	Rename resource 'palm_door_top_hinge.json'
+1618602885300	Rename resource 'palm_door_top.json'
+1618602966150	Rename resource 'palm_leaves.json'
+1618602980822	Rename resource 'palm_pressure_plate_down.json'
+1618602989792	Rename resource 'palm_pressure_plate.json'
+1618603020791	Rename resource 'palm_sapling.json'
+1618603038886	Rename resource 'palm_trapdoor_bottom.json'
+1618603049007	Rename resource 'palm_trapdoor_open.json'
+1618603057033	Rename resource 'palm_trapdoor_top.json'
+1618603146685	Rename resource 'palm_leaves.json'
+1618603207236	Rename resource 'acacia_door.json'
+1618603331510	Rename resource 'palm_bookshelf.json'
+1618603363255	Rename resource 'palm_bookshelf.json'
+1618603378927	Rename resource 'palm_button.json'
+1618603395510	Rename resource 'palm_door.json'
+1618603412341	Rename resource 'palm_pressure_plate.json'
+1618603431672	Rename resource 'palm_trapdoor.json'
+1618603516786	Copy file
+1618603523892	Copy file
+1618603535889	Copy file
+1618603708695	Copy files
+1618686188649	Delete element
+1618686202848	Delete element
+1618686832556	Copy file
+1618686853027	Copy file
+1618686855674	Copy file
+1618687507037	Copy file
+1618687530937	Copy file
+1618687788102	Copy file
+1618689197106	Delete element
+1618690843363	Delete element
+1618690867317	Rename resource 'black_slime_block.json'
+1618690884363	Delete element
+1618690911802	Rename resource 'black_slime_block.json'
+1618691130414	Rename resource 'black_glowblock.json'
+1618691138817	Rename resource 'black_slime_block.json'
+1618691207912	Delete element
+1618691416481	Rename resource 'black_wireless_receiver.json'
+1618691427681	Rename resource 'black_wireless_sender.json'
+1618692762444	Delete element
+1618692775153	Delete element
+1618692913584	Delete element
+1618693201497	Copy file
+1618693227836	Copy file
+1618693239608	Delete element
+1618693254373	Copy file
+1618693606321	Copy file
+1618693612968	Rename resource 'burning_diamond_ore.json'
+1618693654334	Copy file
+1618693789834	Copy files
+1618693885015	Copy files
+1618694529049	Copy files
+1618694818370	Delete element
+1618695558674	Delete element
+1618695683807	Copy file
+1618695699777	Copy file
+1618695902073	Delete element
+1618695939022	Delete element
+1618695961268	Delete element

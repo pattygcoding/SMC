@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "suprememc:cotton"
+    }
+  ],
+  "result": {
+    "item": "suprememc:cotton_seeds",
+    "count": 1
+  }
+}

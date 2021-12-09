@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:polished_granite_bricks"
+  },
+  "result": "suprememc:chiseled_polished_granite_bricks",
+  "count": 1
+}

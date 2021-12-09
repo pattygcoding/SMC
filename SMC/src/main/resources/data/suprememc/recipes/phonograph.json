@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GMC",
+    "XXX",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_wood"
+    },
+    "X": {
+      "item": "minecraft:spruce_planks"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "M": {
+      "item": "suprememc:music_disc_blank"
+    },
+    "C": {
+      "item": "suprememc:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "suprememc:phonograph"
+  }
+}

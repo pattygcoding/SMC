@@ -1,0 +1,9 @@
+{
+  	"type": "minecraft:smelting",
+  	"ingredient": {
+    "item": "suprememc:calamari"
+  	},
+  	"result": "suprememc:cooked_calamari",
+  	"experience": 0.3,
+  	"cookingtime": 200
+}

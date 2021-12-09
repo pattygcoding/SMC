@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "suprememc:polished_granite_brick_wall"
+    ]
+  },
+  "criteria": {
+    "has_cobbled_granite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "suprememc:polished_granite_bricks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "suprememc:polished_granite_brick_wall"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_cobbled_granite",
+      "has_the_recipe"
+    ]
+  ]
+}

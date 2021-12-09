@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "suprememc:block/experience_slab" },
+        "type=top": { "model": "suprememc:block/experience_slab_top" },
+        "type=double": { "model": "suprememc:block/experience_block" }
+    }
+}

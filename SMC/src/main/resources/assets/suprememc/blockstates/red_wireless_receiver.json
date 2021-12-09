@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "suprememc:block/red_wireless_receiver"
+    },
+    "lit=true": {
+      "model": "suprememc:block/red_wireless_receiver_on"
+    }
+  }
+}

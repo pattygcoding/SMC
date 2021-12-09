@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "suprememc:raw_gold"
+  },
+  "result": "minecraft:gold_ore",
+  "experience": 1.0,
+  "cookingtime": 200
+}

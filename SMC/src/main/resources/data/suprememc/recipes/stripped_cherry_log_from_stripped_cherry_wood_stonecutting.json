@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:stripped_cherry_wood"
+  },
+  "result": "suprememc:stripped_cherry_log",
+  "count": 1
+}

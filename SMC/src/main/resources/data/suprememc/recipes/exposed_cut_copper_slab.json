@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+	"group": "cut_copper_slab",
+  
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:exposed_cut_copper"
+    }
+  },
+  "result": {
+    "item": "suprememc:exposed_cut_copper_slab",
+    "count": 6
+  }
+}

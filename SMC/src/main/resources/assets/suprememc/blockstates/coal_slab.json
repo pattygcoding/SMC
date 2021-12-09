@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "suprememc:block/coal_slab" },
+        "type=top": { "model": "suprememc:block/coal_slab_top" },
+        "type=double": { "model": "minecraft:block/coal_block" }
+    }
+}

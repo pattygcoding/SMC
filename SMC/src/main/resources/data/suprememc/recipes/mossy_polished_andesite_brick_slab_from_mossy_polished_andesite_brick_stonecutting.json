@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:mossy_polished_andesite_bricks"
+  },
+  "result": "suprememc:mossy_polished_andesite_brick_slab",
+  "count": 2
+}

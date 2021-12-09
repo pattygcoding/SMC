@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+    	"AA",
+    	"AA"
+  	],
+	"key": 
+	{
+		"A": {"item": "suprememc:copper_ingot"}
+	},
+	"result": 
+	{
+		"item": "suprememc:copper_block",
+		"count": 1
+	}
+}

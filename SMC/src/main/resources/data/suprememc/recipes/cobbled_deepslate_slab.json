@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cobbled_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:cobbled_deepslate"
+    }
+  },
+  "result": {
+    "item": "suprememc:cobbled_deepslate_slab",
+    "count": 6
+  }
+}

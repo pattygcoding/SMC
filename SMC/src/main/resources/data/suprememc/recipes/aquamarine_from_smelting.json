@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "suprememc:aquamarine_ore"
+  },
+  "result": "suprememc:aquamarine",
+  "experience": 1.0,
+  "cookingtime": 200
+}

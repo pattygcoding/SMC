@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "suprememc:cobbled_deepslate"
+    }
+  },
+  "result": {
+    "item": "suprememc:polished_deepslate",
+    "count": 4
+  }
+}

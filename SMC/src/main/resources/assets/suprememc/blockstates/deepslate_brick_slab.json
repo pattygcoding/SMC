@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "suprememc:block/deepslate_brick_slab" },
+        "type=top": { "model": "suprememc:block/deepslate_brick_slab_top" },
+        "type=double": { "model": "suprememc:block/deepslate_bricks" }
+    }
+}

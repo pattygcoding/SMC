@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+    	"###",
+    	"###",
+    	"###"
+  	],
+	"key": 
+	{
+		"#": {"item": "suprememc:radium_ingot"}
+	},
+	"result": 
+	{
+		"item": "suprememc:radium_block",
+		"count": 1
+	}
+}

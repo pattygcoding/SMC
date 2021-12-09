@@ -1,0 +1,14 @@
+{
+  	"type": "minecraft:crafting_shapeless",
+  	"ingredients": 
+  	[
+    	{
+      		"item": "suprememc:name_of_0item"
+    	}
+  	],
+  	"result":
+  	{
+    	"item": "suprememc:name_of_item",
+    	"count": 9
+  	}
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D",
+        "D",
+        "R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "suprememc:amethyst_shard"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:amethyst_sword",
+        "count": 1
+    }
+}

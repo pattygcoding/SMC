@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "suprememc:mossy_polished_diorite_brick_stairs_from_mossy_polished_diorite_brick_stonecutting"
+    ]
+  },
+  "criteria": {
+    "has_cobbled_diorite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "suprememc:mossy_polished_diorite_bricks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "suprememc:mossy_polished_diorite_brick_stairs_from_mossy_polished_diorite_brick_stonecutting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_cobbled_diorite",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:square",
+      "config": {}
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:range",
+          "config": {
+            "maximum": 16,
+            "bottom_offset": 0,
+            "top_offset": 0
+          }
+        },
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "state": {
+              "Name": "suprememc:ruby_ore"
+            },
+            "size": 8,
+            "target": {
+              "predicate_type": "minecraft:tag_match",
+              "tag": "minecraft:base_stone_overworld"
+            }
+          }
+        }
+      }
+    }
+  }
+}

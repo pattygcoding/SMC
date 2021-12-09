@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M",
+        "M",
+        "#"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "suprememc:tigers_eye"
+        },
+        
+        "#":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:tigers_eye_sword",
+        "count": 1
+    }
+}

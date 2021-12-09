@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "brick_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:polished_diorite_bricks"
+    }
+  },
+  "result": {
+    "item": "suprememc:polished_diorite_brick_wall",
+    "count": 6
+  }
+}

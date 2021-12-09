@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "suprememc:block/emerald_slab" },
+        "type=top": { "model": "suprememc:block/emerald_slab_top" },
+        "type=double": { "model": "minecraft:block/emerald_block" }
+    }
+}

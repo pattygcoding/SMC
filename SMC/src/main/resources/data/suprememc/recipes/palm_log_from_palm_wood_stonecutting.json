@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:palm_wood"
+  },
+  "result": "suprememc:palm_log",
+  "count": 1
+}

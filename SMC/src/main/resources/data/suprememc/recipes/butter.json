@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "suprememc:solid_buttermilk_bucket"
+    }
+  ],
+  "result": {
+    "item": "suprememc:butter",
+    "count": 1
+  }
+}

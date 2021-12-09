@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XD",
+        "DX"
+    ],
+    
+    "key":
+    {
+        "D": { "item": "minecraft:name_of_0item_dye" },
+        "X": { "item": "minecraft:glowstone_dust" }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:name_of_item",
+        "count": 1
+    }
+}

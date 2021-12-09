@@ -1,0 +1,12 @@
+{
+  	"type": "suprememc:freezing",
+  	"ingredient": {
+    "item": "minecraft:pufferfish"
+  	},
+  	"result":
+  	{
+  	"item": "suprememc:fugu"
+  	},
+  	"experience": 0.3,
+  	"cookingtime": 200
+}

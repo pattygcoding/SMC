@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "suprememc:block/name_of_item"
+    },
+    "lit=true": {
+      "model": "suprememc:block/name_of_item_on"
+    }
+  }
+}

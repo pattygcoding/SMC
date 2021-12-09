@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D",
+        "R",
+        "R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "suprememc:aquamarine"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:aquamarine_shovel",
+        "count": 1
+    }
+}

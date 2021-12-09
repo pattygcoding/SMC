@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_trapdoor",
+    "pattern":
+    [
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "suprememc:cherry_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:cherry_trapdoor",
+        "count": 2
+    }
+}

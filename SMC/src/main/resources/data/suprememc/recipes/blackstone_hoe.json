@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD",
+        " R",
+        " R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:blackstone"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:blackstone_hoe",
+        "count": 1
+    }
+}

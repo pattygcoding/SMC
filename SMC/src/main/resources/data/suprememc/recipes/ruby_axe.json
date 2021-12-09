@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD",
+        "DR",
+        " R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "suprememc:ruby"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:ruby_axe",
+        "count": 1
+    }
+}

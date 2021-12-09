@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "suprememc:bear_leather"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:bear_leather_helmet",
+        "count": 1
+    }
+}

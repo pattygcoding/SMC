@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chiseled_bricks",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:polished_granite_brick_slab"
+    }
+  },
+  "result": {
+    "item": "suprememc:chiseled_polished_granite_bricks"
+  }
+}

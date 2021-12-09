@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:tigers_eye_block"
+  },
+  "result": "suprememc:tigers_eye_slab",
+  "count": 2
+}

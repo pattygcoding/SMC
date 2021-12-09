@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="JsonArray" key="selection"/>
+		<item value="true" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="JSONArray"/>
+			<item value="JSONObject"/>
+			<item value="crimson"/>
+			<item value="p_235318_1_"/>
+			<item value="p_230320_1_"/>
+			<item value="p_i241960_8_"/>
+			<item value="p_i241960_7_"/>
+			<item value="&#x09;private SMCEndBiomeProvider(Registry&lt;Biome&gt; biomes, long seed, Biome end, Biome highlands, Biome midlands, Biome p_i241960_7_, Biome p_i241960_8_) {"/>
+			<item value="p_i241960_6_"/>
+			<item value="p_i241960_5_"/>
+			<item value="p_i241960_4_"/>
+			<item value="p_i241960_1_"/>
+			<item value="p_i241960_2_"/>
+			<item value="p_i241959_2_"/>
+			<item value="end"/>
+		</list>
+		<list key="replacehistory">
+			<item value="JsonArray"/>
+			<item value="JsonObject"/>
+			<item value="seed"/>
+			<item value="barrens"/>
+			<item value="islands"/>
+			<item value="midlands"/>
+			<item value="highlands"/>
+			<item value="end"/>
+			<item value="registryBiome"/>
+			<item value="biomeSource"/>
+			<item value="name"/>
+			<item value="biomeRegistry"/>
+			<item value="preset"/>
+			<item value="parameters"/>
+			<item value="altitudeParams"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="452" key="DIALOG_HEIGHT"/>
+		<item value="1098" key="DIALOG_X_ORIGIN"/>
+		<item value="227" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

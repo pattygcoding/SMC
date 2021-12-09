@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/slab_top",
+    "textures":
+    {
+        "bottom": "suprememc:block/exposed_cut_copper",
+        "top": "suprememc:block/exposed_cut_copper",
+        "side": "suprememc:block/exposed_cut_copper"
+    }
+}

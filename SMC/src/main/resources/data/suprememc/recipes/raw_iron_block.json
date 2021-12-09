@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+    	"###",
+    	"###",
+    	"###"
+  	],
+	"key": 
+	{
+		"#": {"item": "suprememc:raw_iron"}
+	},
+	"result": 
+	{
+		"item": "suprememc:raw_iron_block",
+		"count": 1
+	}
+}

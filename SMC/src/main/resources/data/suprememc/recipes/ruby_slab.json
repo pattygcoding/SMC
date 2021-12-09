@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mineral_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:ruby_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:ruby_slab",
+    "count": 6
+  }
+}

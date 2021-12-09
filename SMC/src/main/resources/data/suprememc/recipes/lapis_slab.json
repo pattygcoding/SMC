@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mineral_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:lapis_slab",
+    "count": 6
+  }
+}

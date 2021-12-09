@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:name_of_0item"
+    }
+  },
+  "result": {
+    "item": "suprememc:name_of_item",
+    "count": 6
+  }
+}

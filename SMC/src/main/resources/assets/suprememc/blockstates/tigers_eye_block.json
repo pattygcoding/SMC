@@ -1,0 +1,9 @@
+{
+	"variants": 
+	{
+        "":
+        { 
+        	"model": "suprememc:block/tigers_eye_block" 
+        }
+    }
+}

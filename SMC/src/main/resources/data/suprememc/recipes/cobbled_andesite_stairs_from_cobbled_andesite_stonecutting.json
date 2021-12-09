@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:cobbled_andesite"
+  },
+  "result": "suprememc:cobbled_andesite_stairs",
+  "count": 1
+}

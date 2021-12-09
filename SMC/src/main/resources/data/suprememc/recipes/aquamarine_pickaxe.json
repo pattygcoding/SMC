@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        " R ",
+        " R "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "suprememc:aquamarine"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:aquamarine_pickaxe",
+        "count": 1
+    }
+}

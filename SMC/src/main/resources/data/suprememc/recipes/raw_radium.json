@@ -1,0 +1,14 @@
+{
+  	"type": "minecraft:crafting_shapeless",
+  	"ingredients": 
+  	[
+    	{
+      		"item": "suprememc:raw_radium_block"
+    	}
+  	],
+  	"result":
+  	{
+    	"item": "suprememc:raw_radium",
+    	"count": 9
+  	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/door_bottom",
+    "textures": {
+        "bottom": "suprememc:block/mustard_door_bottom",
+        "top": "suprememc:block/mustard_door_top"
+    }
+}

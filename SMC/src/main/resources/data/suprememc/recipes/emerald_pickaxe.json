@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        " R ",
+        " R "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:emerald"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:emerald_pickaxe",
+        "count": 1
+    }
+}

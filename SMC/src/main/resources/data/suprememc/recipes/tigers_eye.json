@@ -1,0 +1,14 @@
+{
+  	"type": "minecraft:crafting_shapeless",
+  	"ingredients": 
+  	[
+    	{
+      		"tag": "suprememc:tigers_eye_blocks"
+    	}
+  	],
+  	"result":
+  	{
+    	"item": "suprememc:tigers_eye",
+    	"count": 9
+  	}
+}

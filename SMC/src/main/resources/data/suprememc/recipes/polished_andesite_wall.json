@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "polished_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:polished_andesite"
+    }
+  },
+  "result": {
+    "item": "suprememc:polished_andesite_wall",
+    "count": 6
+  }
+}

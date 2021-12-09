@@ -1,0 +1,9 @@
+{
+  	"type": "minecraft:smoking",
+  	"ingredient": {
+    "item": "suprememc:fugu"
+  	},
+  	"result": "suprememc:cooked_fugu",
+  	"experience": 0.3,
+  	"cookingtime": 100
+}

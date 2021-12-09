@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cobbled_stairs",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:cobbled_granite"
+    }
+  },
+  "result": {
+    "item": "suprememc:cobbled_granite_stairs",
+    "count": 4
+  }
+}

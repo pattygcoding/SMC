@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:smooth_gold_block"
+  },
+  "result": "suprememc:smooth_gold_wall",
+  "count": 1
+}

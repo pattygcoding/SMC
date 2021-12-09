@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:experience_block"
+  },
+  "result": "suprememc:experience_stairs",
+  "count": 1
+}

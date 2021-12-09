@@ -1,0 +1,7 @@
+{
+   	"parent": "minecraft:item/handheld_rod",
+   	"textures": 
+   	{
+       	"layer0": "suprememc:item/netherite_carrot_on_a_stick"
+   	}
+}

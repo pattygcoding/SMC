@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:polished_andesite_bricks"
+  },
+  "result": "suprememc:chiseled_polished_andesite_bricks",
+  "count": 1
+}

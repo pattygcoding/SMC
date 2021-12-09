@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        " R ",
+        " R "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "suprememc:amethyst_shard"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:amethyst_pickaxe",
+        "count": 1
+    }
+}

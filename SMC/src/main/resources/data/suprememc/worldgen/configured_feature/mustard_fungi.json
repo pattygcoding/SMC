@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_multilayer",
+      "config": {
+        "count": 8
+      }
+    },
+    "feature": {
+      "type": "minecraft:huge_fungus",
+      "config": {
+        "hat_state": {
+          "Name": "suprememc:mustard_wart_block"
+        },
+        "decor_state": {
+          "Name": "minecraft:shroomlight"
+        },
+        "stem_state": {
+          "Name": "suprememc:mustard_stem",
+          "Properties": {
+            "axis": "y"
+          }
+        },
+        "valid_base_block": {
+          "Name": "suprememc:mustard_nylium"
+        },
+        "planted": false
+      }
+    }
+  }
+}

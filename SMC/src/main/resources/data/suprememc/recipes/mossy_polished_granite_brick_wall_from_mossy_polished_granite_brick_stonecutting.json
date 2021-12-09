@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:mossy_polished_granite_bricks"
+  },
+  "result": "suprememc:mossy_polished_granite_brick_wall",
+  "count": 1
+}

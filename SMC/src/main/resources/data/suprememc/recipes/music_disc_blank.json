@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XDX",
+        "D D",
+        "XDX"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "X":
+        {
+            "item": "suprememc:copper_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:music_disc_blank",
+        "count": 1
+    }
+}

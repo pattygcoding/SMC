@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD",
+        "DR",
+        " R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:blackstone"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:blackstone_axe",
+        "count": 1
+    }
+}

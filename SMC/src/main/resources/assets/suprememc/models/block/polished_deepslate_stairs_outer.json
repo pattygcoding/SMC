@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/outer_stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/polished_deepslate",
+        "top": "suprememc:block/polished_deepslate",
+        "side": "suprememc:block/polished_deepslate"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures":
+    {
+        "bottom": "suprememc:block/polished_grimstone",
+        "top": "suprememc:block/polished_grimstone",
+        "side": "suprememc:block/polished_grimstone"
+    }
+}

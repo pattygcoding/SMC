@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XD",
+        "DX"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:gravel"
+        },
+        
+        "X":
+        {
+            "item": "minecraft:sand"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:coarse_sand",
+        "count": 1
+    }
+}

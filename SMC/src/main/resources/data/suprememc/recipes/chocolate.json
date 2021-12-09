@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+    	"BAB",
+    	"ACA",
+    	"BAB"
+  	],
+	"key": 
+	{
+		"A": {"item": "minecraft:sugar"},
+		"B": {"item": "minecraft:cocoa_beans"},
+		"C": {"item": "suprememc:pasteurized_milk_bucket"}
+	},
+	"result": 
+	{
+		"item": "suprememc:chocolate",
+		"count": 1
+	}
+}

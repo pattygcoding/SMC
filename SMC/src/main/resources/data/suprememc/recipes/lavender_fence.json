@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "wooden_fence",
+	"pattern": 
+	[
+    	"ASA",
+    	"ASA"
+  	],
+	"key": 
+	{
+		"A": {"item": "suprememc:lavender_planks"},
+		"S": {"item": "minecraft:stick"}
+	},
+	"result": 
+	{
+		"item": "suprememc:lavender_fence",
+		"count": 3
+	}
+}

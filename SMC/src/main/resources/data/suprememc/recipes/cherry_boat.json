@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "boat",
+    "pattern":
+    [
+        "A A",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "suprememc:cherry_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:cherry_boat",
+        "count": 1
+    }
+}

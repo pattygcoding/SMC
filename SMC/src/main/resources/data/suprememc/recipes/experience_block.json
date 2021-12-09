@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+    	"AAA",
+    	"AAA",
+    	"AAA"
+  	],
+	"key": 
+	{
+		"A": {"item": "suprememc:experience_dust"}
+	},
+	"result": 
+	{
+		"item": "suprememc:experience_block",
+		"count": 1
+	}
+}

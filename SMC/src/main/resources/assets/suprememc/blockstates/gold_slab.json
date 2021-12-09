@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "suprememc:block/gold_slab" },
+        "type=top": { "model": "suprememc:block/gold_slab_top" },
+        "type=double": { "model": "minecraft:block/gold_block" }
+    }
+}

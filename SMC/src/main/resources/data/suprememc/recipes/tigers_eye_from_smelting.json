@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "suprememc:tigers_eye_ore"
+  },
+  "result": "suprememc:tigers_eye",
+  "experience": 1.6,
+  "cookingtime": 200
+}

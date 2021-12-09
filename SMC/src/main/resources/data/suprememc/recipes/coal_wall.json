@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mineral_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:coal_wall",
+    "count": 6
+  }
+}

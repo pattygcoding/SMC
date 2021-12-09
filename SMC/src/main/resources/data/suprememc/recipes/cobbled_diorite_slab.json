@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cobbled_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:cobbled_diorite"
+    }
+  },
+  "result": {
+    "item": "suprememc:cobbled_diorite_slab",
+    "count": 6
+  }
+}

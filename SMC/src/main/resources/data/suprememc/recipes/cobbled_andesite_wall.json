@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cobbled_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:cobbled_andesite"
+    }
+  },
+  "result": {
+    "item": "suprememc:cobbled_andesite_wall",
+    "count": 6
+  }
+}

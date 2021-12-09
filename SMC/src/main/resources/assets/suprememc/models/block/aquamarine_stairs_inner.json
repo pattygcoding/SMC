@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/aquamarine_block",
+        "top": "suprememc:block/aquamarine_block",
+        "side": "suprememc:block/aquamarine_block"
+    }
+}

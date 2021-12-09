@@ -1,0 +1,86 @@
+{
+	 "block.amethyst.break": 
+	 { 
+	 	"subtitle": "subtitles.block.generic.break", 
+	 	"sounds": 
+	 	[
+	 		"suprememc:block/amethyst/break1", 
+	 		"suprememc:block/amethyst/break2", 
+	 		"suprememc:block/amethyst/break3", 
+	 		"suprememc:block/amethyst/break4" 
+	 		
+	 	] 
+	 },
+	 "block.amethyst.step": 
+	 { 
+	 	"subtitle": "subtitles.block.generic.step", 
+	 	"sounds": 
+	 	[
+	 		"suprememc:block/amethyst/fall1", 
+	 		"suprememc:block/amethyst/fall2", 
+	 		"suprememc:block/amethyst/fall3", 
+	 		"suprememc:block/amethyst/fall4",
+	 		"suprememc:block/amethyst/fall5", 
+	 		"suprememc:block/amethyst/fall6", 
+	 		"suprememc:block/amethyst/fall7", 
+	 		"suprememc:block/amethyst/fall8",
+	 		"suprememc:block/amethyst/fall9", 
+	 		"suprememc:block/amethyst/fall10", 
+	 		"suprememc:block/amethyst/fall11", 
+	 		"suprememc:block/amethyst/fall12",
+	 		"suprememc:block/amethyst/fall13", 
+	 		"suprememc:block/amethyst/fall14"
+	 	]
+	 },
+	 "block.amethyst.hit": 
+	 { 
+	 	"subtitle": "subtitles.block.generic.hit", 
+	 	"sounds": 
+	 	[
+	 		"suprememc:block/amethyst/fall1", 
+	 		"suprememc:block/amethyst/fall2", 
+	 		"suprememc:block/amethyst/fall3", 
+	 		"suprememc:block/amethyst/fall4",
+	 		"suprememc:block/amethyst/fall5", 
+	 		"suprememc:block/amethyst/fall6", 
+	 		"suprememc:block/amethyst/fall7", 
+	 		"suprememc:block/amethyst/fall8",
+	 		"suprememc:block/amethyst/fall9", 
+	 		"suprememc:block/amethyst/fall10", 
+	 		"suprememc:block/amethyst/fall11", 
+	 		"suprememc:block/amethyst/fall12"
+	 	]
+	 },
+	 "block.amethyst.place": 
+	 { 
+	 	"subtitle": "subtitles.block.generic.place", 
+	 	"sounds": 
+	 	[
+	 		"suprememc:block/amethyst/place1", 
+	 		"suprememc:block/amethyst/place2", 
+	 		"suprememc:block/amethyst/place3", 
+	 		"suprememc:block/amethyst/place4" 
+	 	]
+	 },
+	 "block.amethyst.fall": 
+	 { 
+	 	"subtitle": "subtitles.block.generic.hit", 
+	 	"sounds": 
+	 	[
+	 		"suprememc:block/amethyst/fall1", 
+	 		"suprememc:block/amethyst/fall2", 
+	 		"suprememc:block/amethyst/fall3", 
+	 		"suprememc:block/amethyst/fall4",
+	 		"suprememc:block/amethyst/fall5", 
+	 		"suprememc:block/amethyst/fall6", 
+	 		"suprememc:block/amethyst/fall7", 
+	 		"suprememc:block/amethyst/fall8",
+	 		"suprememc:block/amethyst/fall9", 
+	 		"suprememc:block/amethyst/fall10", 
+	 		"suprememc:block/amethyst/fall11", 
+	 		"suprememc:block/amethyst/fall12",
+	 		"suprememc:block/amethyst/fall13", 
+	 		"suprememc:block/amethyst/fall14"
+	 	]
+	 }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "suprememc:salt_ore"
+  },
+  "result": "suprememc:salt",
+  "experience": 1.0,
+  "cookingtime": 100
+}

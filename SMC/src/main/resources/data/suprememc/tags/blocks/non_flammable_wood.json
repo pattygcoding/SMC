@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "suprememc:mustard_stem",
+    "suprememc:stripped_mustard_stem",
+    "suprememc:mustard_hyphae",
+    "suprememc:stripped_mustard_hyphae",
+    "suprememc:mustard_planks",
+    "suprememc:mustard_slab",
+    "suprememc:mustard_pressure_plate",
+    "suprememc:mustard_fence",
+    "suprememc:mustard_trapdoor",
+    "suprememc:mustard_fence_gate",
+    "suprememc:mustard_stairs",
+    "suprememc:mustard_button",
+    "suprememc:mustard_door",
+    "suprememc:lavender_stem",
+    "suprememc:stripped_lavender_stem",
+    "suprememc:lavender_hyphae",
+    "suprememc:stripped_lavender_hyphae",
+    "suprememc:lavender_planks",
+    "suprememc:lavender_slab",
+    "suprememc:lavender_pressure_plate",
+    "suprememc:lavender_fence",
+    "suprememc:lavender_trapdoor",
+    "suprememc:lavender_fence_gate",
+    "suprememc:lavender_stairs",
+    "suprememc:lavender_button",
+    "suprememc:lavender_door"
+  ]
+}

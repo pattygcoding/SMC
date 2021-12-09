@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "suprememc:block/cheese_pizza_side",
+        "bottom": "suprememc:block/cheese_pizza_bottom",
+        "top": "suprememc:block/pepperoni_pizza_top",
+        "side": "suprememc:block/cheese_pizza_side",
+        "inside": "suprememc:block/cheese_pizza_inner"
+    },
+    "elements": [
+        {   "from": [ 9, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

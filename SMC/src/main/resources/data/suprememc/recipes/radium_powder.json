@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "suprememc:radium_ingot"
+    }
+  ],
+  "result": {
+    "item": "suprememc:radium_powder",
+    "count": 2
+  }
+}

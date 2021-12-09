@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M",
+        "M",
+        "#"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "suprememc:name_of_0item"
+        },
+        
+        "#":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:name_of_item",
+        "count": 1
+    }
+}

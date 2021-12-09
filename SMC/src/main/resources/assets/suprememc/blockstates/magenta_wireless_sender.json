@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "suprememc:block/magenta_wireless_sender"
+    },
+    "lit=true": {
+      "model": "suprememc:block/magenta_wireless_sender_on"
+    }
+  }
+}

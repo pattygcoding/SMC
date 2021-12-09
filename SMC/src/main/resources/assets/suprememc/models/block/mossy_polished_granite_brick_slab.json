@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures":
+    {
+        "bottom": "suprememc:block/mossy_polished_granite_bricks",
+        "top": "suprememc:block/mossy_polished_granite_bricks",
+        "side": "suprememc:block/mossy_polished_granite_bricks"
+    }
+}

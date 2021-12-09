@@ -1,0 +1,9 @@
+{
+	"variants": 
+	{
+        "":
+        { 
+        	"model": "suprememc:block/cobbled_diorite" 
+        }
+    }
+}

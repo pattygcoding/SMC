@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "suprememc:block/oxidized_cut_copper_slab" },
+        "type=top": { "model": "suprememc:block/oxidized_cut_copper_slab_top" },
+        "type=double": { "model": "suprememc:block/oxidized_cut_copper" }
+    }
+}

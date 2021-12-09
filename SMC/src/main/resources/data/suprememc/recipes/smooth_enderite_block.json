@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "suprememc:enderite_block"
+  },
+  "result": "suprememc:smooth_enderite_block",
+  "experience": 0.8,
+  "cookingtime": 200
+}

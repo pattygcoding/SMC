@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/smooth_burning_diamond_block",
+        "top": "suprememc:block/smooth_burning_diamond_block",
+        "side": "suprememc:block/smooth_burning_diamond_block"
+    }
+}

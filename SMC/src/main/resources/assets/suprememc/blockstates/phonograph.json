@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "suprememc:block/phonograph",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "suprememc:block/phonograph"
+    },
+    "facing=south": {
+      "model": "suprememc:block/phonograph",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suprememc:block/phonograph",
+      "y": 270
+    }
+  }
+}

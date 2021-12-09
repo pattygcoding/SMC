@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "suprememc:block/name_of_item_top",
+    "side": "suprememc:block/name_of_item"
+  }
+}

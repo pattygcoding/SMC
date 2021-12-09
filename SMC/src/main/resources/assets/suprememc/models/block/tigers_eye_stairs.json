@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/tigers_eye_block",
+        "top": "suprememc:block/tigers_eye_block",
+        "side": "suprememc:block/tigers_eye_block"
+    }
+}

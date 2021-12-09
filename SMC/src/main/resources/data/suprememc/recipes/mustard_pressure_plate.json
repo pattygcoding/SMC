@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "wooden_pressure_plate",
+	"pattern": 
+	[
+    	"AA"
+  	],
+	"key": 
+	{
+		"A": {"item": "suprememc:mustard_planks"}
+	},
+	"result": 
+	{
+		"item": "suprememc:mustard_pressure_plate",
+		"count": 1
+	}
+}

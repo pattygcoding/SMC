@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+  	"minecraft:gold_block",
+  	"suprememc:smooth_gold_block"
+  ]
+}

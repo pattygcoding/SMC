@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/cobbled_andesite",
+        "top": "suprememc:block/cobbled_andesite",
+        "side": "suprememc:block/cobbled_andesite"
+    }
+}

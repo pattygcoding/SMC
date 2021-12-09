@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:smooth_experience_block"
+  },
+  "result": "suprememc:smooth_experience_wall",
+  "count": 1
+}

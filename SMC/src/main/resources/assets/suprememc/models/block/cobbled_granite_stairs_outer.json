@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/outer_stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/cobbled_granite",
+        "top": "suprememc:block/cobbled_granite",
+        "side": "suprememc:block/cobbled_granite"
+    }
+}

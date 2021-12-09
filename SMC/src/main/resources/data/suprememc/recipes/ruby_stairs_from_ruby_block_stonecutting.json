@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:ruby_block"
+  },
+  "result": "suprememc:ruby_stairs",
+  "count": 1
+}

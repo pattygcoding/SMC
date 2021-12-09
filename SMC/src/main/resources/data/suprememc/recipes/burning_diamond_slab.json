@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mineral_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:burning_diamond_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:burning_diamond_slab",
+    "count": 6
+  }
+}

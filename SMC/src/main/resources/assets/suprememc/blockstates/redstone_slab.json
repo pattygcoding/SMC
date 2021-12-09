@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "suprememc:block/redstone_slab" },
+        "type=top": { "model": "suprememc:block/redstone_slab_top" },
+        "type=double": { "model": "minecraft:block/redstone_block" }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "smooth_mineral_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:smooth_experience_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:smooth_experience_wall",
+    "count": 6
+  }
+}

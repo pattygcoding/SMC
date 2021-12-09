@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "suprememc:deepslate_coal_ore"
+  },
+  "result": "minecraft:coal",
+  "experience": 1.0,
+  "cookingtime": 200
+}

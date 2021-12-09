@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "suprememc:block/name_of_item" },
+        "powered=true": { "model": "suprememc:block/name_of_item_down" }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD",
+        "DR",
+        " R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:flint"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:flint_axe",
+        "count": 1
+    }
+}

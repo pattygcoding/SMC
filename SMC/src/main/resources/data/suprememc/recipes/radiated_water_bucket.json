@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "suprememc:radium_powder"
+    }
+  ],
+  "result": {
+    "item": "suprememc:radiated_water_bucket",
+    "count": 1
+  }
+}

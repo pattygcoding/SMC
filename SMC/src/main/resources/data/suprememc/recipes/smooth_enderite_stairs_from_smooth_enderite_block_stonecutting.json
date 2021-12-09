@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:smooth_enderite_block"
+  },
+  "result": "suprememc:smooth_enderite_stairs",
+  "count": 1
+}

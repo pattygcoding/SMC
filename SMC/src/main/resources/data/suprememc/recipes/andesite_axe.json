@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD",
+        "DR",
+        " R"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "suprememc:cobbled_andesite"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:andesite_axe",
+        "count": 1
+    }
+}

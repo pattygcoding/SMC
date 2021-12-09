@@ -1,0 +1,7 @@
+{
+   	"parent": "minecraft:item/generated",
+   	"textures": 
+   	{
+       	"layer0": "suprememc:item/brown_recluse_spider_spawn_egg"
+   	}
+}

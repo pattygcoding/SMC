@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:stripped_lavender_hyphae"
+  },
+  "result": "suprememc:stripped_lavender_stem",
+  "count": 1
+}

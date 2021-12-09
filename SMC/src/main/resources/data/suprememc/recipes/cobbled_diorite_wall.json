@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cobbled_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:cobbled_diorite"
+    }
+  },
+  "result": {
+    "item": "suprememc:cobbled_diorite_wall",
+    "count": 6
+  }
+}

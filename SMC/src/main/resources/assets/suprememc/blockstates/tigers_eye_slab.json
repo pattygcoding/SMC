@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "suprememc:block/tigers_eye_slab" },
+        "type=top": { "model": "suprememc:block/tigers_eye_slab_top" },
+        "type=double": { "model": "suprememc:block/tigers_eye_block" }
+    }
+}

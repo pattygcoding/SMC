@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "suprememc:lapis_blocks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lapis_lazuli",
+    "count": 9
+  }
+}

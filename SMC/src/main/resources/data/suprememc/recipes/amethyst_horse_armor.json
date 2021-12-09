@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "AAA",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "suprememc:amethyst_shard"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:amethyst_horse_armor",
+        "count": 1
+    }
+}

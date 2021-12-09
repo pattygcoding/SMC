@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:waxed_copper_block"
+  },
+  "result": "suprememc:waxed_cut_copper_slab",
+  "count": 2
+}

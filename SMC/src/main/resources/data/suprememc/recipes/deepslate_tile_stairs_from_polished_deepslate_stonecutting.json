@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:polished_deepslate"
+  },
+  "result": "suprememc:deepslate_tile_stairs",
+  "count": 1
+}

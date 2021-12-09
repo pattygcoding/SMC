@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/weathered_cut_copper",
+        "top": "suprememc:block/weathered_cut_copper",
+        "side": "suprememc:block/weathered_cut_copper"
+    }
+}

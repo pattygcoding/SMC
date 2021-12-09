@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "suprememc:enderite_blocks"
+    }
+  ],
+  "result": {
+    "item": "suprememc:enderite_powder",
+    "count": 9
+  }
+}

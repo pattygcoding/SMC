@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "suprememc:tigers_eye"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:tigers_eye_boots",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/cobbled_diorite",
+        "top": "suprememc:block/cobbled_diorite",
+        "side": "suprememc:block/cobbled_diorite"
+    }
+}

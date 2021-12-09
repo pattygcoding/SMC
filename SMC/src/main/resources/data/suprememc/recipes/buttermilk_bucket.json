@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+    	" A ",
+    	"ABA",
+    	" A "
+  	],
+	"key": 
+	{
+		"A": {"item": "suprememc:salt"},
+		"B": {"item": "suprememc:pasteurized_milk_bucket"}
+	},
+	"result": 
+	{
+		"item": "suprememc:buttermilk_bucket",
+		"count": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:name_of_item_planks"
+    }
+  },
+  "result": {
+    "item": "suprememc:name_of_item_stairs",
+    "count": 4
+  }
+}

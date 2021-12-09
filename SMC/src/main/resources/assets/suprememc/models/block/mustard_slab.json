@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures":
+    {
+        "bottom": "suprememc:block/mustard_planks",
+        "top": "suprememc:block/mustard_planks",
+        "side": "suprememc:block/mustard_planks"
+    }
+}

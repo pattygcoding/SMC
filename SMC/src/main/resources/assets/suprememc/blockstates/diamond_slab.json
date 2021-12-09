@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "suprememc:block/diamond_slab" },
+        "type=top": { "model": "suprememc:block/diamond_slab_top" },
+        "type=double": { "model": "minecraft:block/diamond_block" }
+    }
+}

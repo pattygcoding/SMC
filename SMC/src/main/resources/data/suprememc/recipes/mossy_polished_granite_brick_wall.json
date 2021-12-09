@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "brick_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:mossy_polished_granite_bricks"
+    }
+  },
+  "result": {
+    "item": "suprememc:mossy_polished_granite_brick_wall",
+    "count": 6
+  }
+}

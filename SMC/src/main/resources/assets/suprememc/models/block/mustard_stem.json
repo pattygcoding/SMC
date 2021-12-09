@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "side": "suprememc:block/mustard_stem",
+        "end": "suprememc:block/mustard_stem_top"
+    }
+}

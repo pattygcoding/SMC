@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures":
+    {
+        "bottom": "suprememc:block/name_of_0item",
+        "top": "suprememc:block/name_of_0item",
+        "side": "suprememc:block/name_of_0item"
+    }
+}

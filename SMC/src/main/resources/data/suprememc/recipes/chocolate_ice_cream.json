@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+    	"A",
+    	"B",
+    	"C"
+  	],
+	"key": 
+	{
+		"A": {"item": "suprememc:chocolate_milk_bucket"},
+		"B": {"item": "minecraft:snowball"},
+		"C": {"item": "suprememc:ice_cream_cone"}
+	},
+	"result": 
+	{
+		"item": "suprememc:chocolate_ice_cream",
+		"count": 1
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+    	"###",
+    	"###",
+    	"###"
+  	],
+	"key": 
+	{
+		"#": {"item": "suprememc:burning_diamond"}
+	},
+	"result": 
+	{
+		"item": "suprememc:burning_diamond_block",
+		"count": 1
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "suprememc:enderite_ore"
+  },
+  "result": "suprememc:enderite_powder",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:mustard_stem"
+    }
+  },
+  "result": {
+    "item": "suprememc:mustard_hyphae",
+    "count": 3
+  }
+}

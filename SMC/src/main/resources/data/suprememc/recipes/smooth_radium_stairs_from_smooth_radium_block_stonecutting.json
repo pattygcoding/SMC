@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:smooth_radium_block"
+  },
+  "result": "suprememc:smooth_radium_stairs",
+  "count": 1
+}

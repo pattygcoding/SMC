@@ -1,0 +1,9 @@
+INDEX VERSION 1.130+C:\Users\phgoodw\Documents\1.16.5 Mods\.metadata\.plugins\org.eclipse.jdt.core
+633707102.index
+977141205.index
+1273106464.index
+3400634606.index
+930900409.index
+3803010993.index
+1325751483.index
+3044127640.index

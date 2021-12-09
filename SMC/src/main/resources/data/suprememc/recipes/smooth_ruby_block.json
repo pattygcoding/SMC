@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "suprememc:ruby_block"
+  },
+  "result": "suprememc:smooth_ruby_block",
+  "experience": 0.8,
+  "cookingtime": 200
+}

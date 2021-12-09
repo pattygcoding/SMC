@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/waxed_oxidized_copper",
+        "top": "suprememc:block/waxed_oxidized_copper",
+        "side": "suprememc:block/waxed_oxidized_copper"
+    }
+}

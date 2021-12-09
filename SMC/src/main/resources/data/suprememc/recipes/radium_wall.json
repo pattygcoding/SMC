@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mineral_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:radium_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:radium_wall",
+    "count": 6
+  }
+}

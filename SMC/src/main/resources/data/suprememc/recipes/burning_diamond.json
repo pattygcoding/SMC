@@ -1,0 +1,14 @@
+{
+  	"type": "minecraft:crafting_shapeless",
+  	"ingredients": 
+  	[
+    	{
+      		"tag": "suprememc:burning_diamond_blocks"
+    	}
+  	],
+  	"result":
+  	{
+    	"item": "suprememc:burning_diamond",
+    	"count": 9
+  	}
+}

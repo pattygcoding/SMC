@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/exposed_cut_copper",
+        "top": "suprememc:block/exposed_cut_copper",
+        "side": "suprememc:block/exposed_cut_copper"
+    }
+}

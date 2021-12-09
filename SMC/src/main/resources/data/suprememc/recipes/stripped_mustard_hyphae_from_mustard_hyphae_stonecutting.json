@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:mustard_hyphae"
+  },
+  "result": "suprememc:stripped_mustard_hyphae",
+  "count": 1
+}

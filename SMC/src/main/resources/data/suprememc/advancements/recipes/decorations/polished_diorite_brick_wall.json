@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "suprememc:polished_diorite_brick_wall"
+    ]
+  },
+  "criteria": {
+    "has_cobbled_diorite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "suprememc:polished_diorite_bricks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "suprememc:polished_diorite_brick_wall"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_cobbled_diorite",
+      "has_the_recipe"
+    ]
+  ]
+}

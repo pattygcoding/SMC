@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mineral_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:aquamarine_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:aquamarine_wall",
+    "count": 6
+  }
+}

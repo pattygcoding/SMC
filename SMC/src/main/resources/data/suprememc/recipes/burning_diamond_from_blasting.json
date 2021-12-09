@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "suprememc:burning_diamond_ore"
+  },
+  "result": "suprememc:burning_diamond",
+  "experience": 1.0,
+  "cookingtime": 100
+}

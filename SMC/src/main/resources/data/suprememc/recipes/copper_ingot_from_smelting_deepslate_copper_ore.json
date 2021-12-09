@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "suprememc:deepslate_copper_ore"
+  },
+  "result": "suprememc:copper_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

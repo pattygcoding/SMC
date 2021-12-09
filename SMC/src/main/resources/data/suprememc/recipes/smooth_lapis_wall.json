@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "smooth_mineral_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:smooth_lapis_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:smooth_lapis_wall",
+    "count": 6
+  }
+}

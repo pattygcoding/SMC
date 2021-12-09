@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+  	"minecraft:lapis_block",
+  	"suprememc:smooth_lapis_block"
+  ]
+}

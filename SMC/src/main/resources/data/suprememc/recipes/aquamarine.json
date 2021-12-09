@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "suprememc:aquamarine_blocks"
+    }
+  ],
+  "result": {
+    "item": "suprememc:aquamarine",
+    "count": 9
+  }
+}

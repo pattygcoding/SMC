@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "suprememc:emerald_blocks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 9
+  }
+}

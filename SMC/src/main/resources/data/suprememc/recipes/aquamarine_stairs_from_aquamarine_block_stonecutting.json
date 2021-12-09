@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:aquamarine_block"
+  },
+  "result": "suprememc:aquamarine_stairs",
+  "count": 1
+}

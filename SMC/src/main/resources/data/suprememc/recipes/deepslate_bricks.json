@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "suprememc:polished_deepslate"
+    }
+  },
+  "result": {
+    "item": "suprememc:deepslate_bricks",
+    "count": 4
+  }
+}

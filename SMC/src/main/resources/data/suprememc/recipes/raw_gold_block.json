@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+    	"###",
+    	"###",
+    	"###"
+  	],
+	"key": 
+	{
+		"#": {"item": "suprememc:raw_gold"}
+	},
+	"result": 
+	{
+		"item": "suprememc:raw_gold_block",
+		"count": 1
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mineral_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:tigers_eye_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:tigers_eye_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "wooden_button",
+	"pattern": 
+	[
+    	"A"
+  	],
+	"key": 
+	{
+		"A": {"item": "suprememc:palm_planks"}
+	},
+	"result": 
+	{
+		"item": "suprememc:palm_button",
+		"count": 1
+	}
+}

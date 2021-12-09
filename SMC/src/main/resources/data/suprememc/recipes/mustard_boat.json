@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "boat",
+    "pattern":
+    [
+        "A A",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "suprememc:mustard_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:mustard_boat",
+        "count": 1
+    }
+}

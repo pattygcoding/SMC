@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:cobbled_deepslate"
+  },
+  "result": "suprememc:deepslate_bricks",
+  "count": 1
+}

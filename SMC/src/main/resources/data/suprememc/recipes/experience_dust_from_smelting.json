@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "suprememc:experience_ore"
+  },
+  "result": "suprememc:experience_dust",
+  "experience": 1.0,
+  "cookingtime": 200
+}

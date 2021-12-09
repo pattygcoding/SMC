@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "glowblock",
+    "pattern":
+    [
+        "XD",
+        "DX"
+    ],
+    
+    "key":
+    {
+        "D": { "item": "minecraft:purple_dye" },
+        "X": { "item": "suprememc:lightstone_dust" }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:purple_glowblock",
+        "count": 1
+    }
+}

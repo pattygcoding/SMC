@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        " R ",
+        " R "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:end_stone"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:end_stone_pickaxe",
+        "count": 1
+    }
+}

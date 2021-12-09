@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cobbled_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:cobbled_andesite"
+    }
+  },
+  "result": {
+    "item": "suprememc:cobbled_andesite_slab",
+    "count": 6
+  }
+}

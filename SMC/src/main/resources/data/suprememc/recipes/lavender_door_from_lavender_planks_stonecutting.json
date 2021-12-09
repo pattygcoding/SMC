@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:lavender_planks"
+  },
+  "result": "suprememc:lavender_door",
+  "count": 1
+}

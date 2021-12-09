@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M",
+        "M",
+        "#"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "suprememc:burning_diamond"
+        },
+        
+        "#":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:burning_diamond_sword",
+        "count": 1
+    }
+}

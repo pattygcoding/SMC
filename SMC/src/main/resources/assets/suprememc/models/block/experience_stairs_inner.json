@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/experience_block",
+        "top": "suprememc:block/experience_block",
+        "side": "suprememc:block/experience_block"
+    }
+}

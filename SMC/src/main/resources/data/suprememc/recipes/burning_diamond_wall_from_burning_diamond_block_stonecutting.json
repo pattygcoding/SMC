@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:burning_diamond_block"
+  },
+  "result": "suprememc:burning_diamond_wall",
+  "count": 1
+}

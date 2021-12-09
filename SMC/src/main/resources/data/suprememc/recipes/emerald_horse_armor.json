@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "AAA",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:emerald"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:emerald_horse_armor",
+        "count": 1
+    }
+}

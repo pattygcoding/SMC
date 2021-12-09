@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/ruby_block",
+        "top": "suprememc:block/ruby_block",
+        "side": "suprememc:block/ruby_block"
+    }
+}

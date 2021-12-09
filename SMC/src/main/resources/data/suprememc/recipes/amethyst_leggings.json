@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "A A",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "suprememc:amethyst_shard"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:amethyst_leggings",
+        "count": 1
+    }
+}

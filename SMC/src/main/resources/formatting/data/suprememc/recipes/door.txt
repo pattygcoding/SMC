@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wooden_door",
+    "pattern":
+    [
+        "AA",
+        "AA",
+        "AA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "suprememc:name_of_0item"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:name_of_item",
+        "count": 3
+    }
+}

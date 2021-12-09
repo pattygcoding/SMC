@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/slab_top",
+    "textures":
+    {
+        "bottom": "suprememc:block/smooth_netherite_block",
+        "top": "suprememc:block/smooth_netherite_block",
+        "side": "suprememc:block/smooth_netherite_block"
+    }
+}

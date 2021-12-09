@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:nether_forest",
+  "config": {
+    "top_material": {
+      "Name": "suprememc:mustard_nylium"
+    },
+    "under_material": {
+      "Name": "minecraft:netherrack"
+    },
+    "underwater_material": {
+      "Name": "suprememc:mustard_wart_block"
+    }
+  }
+}

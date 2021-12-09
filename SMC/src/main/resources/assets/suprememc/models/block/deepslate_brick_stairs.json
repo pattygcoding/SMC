@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/deepslate_bricks",
+        "top": "suprememc:block/deepslate_bricks",
+        "side": "suprememc:block/deepslate_bricks"
+    }
+}

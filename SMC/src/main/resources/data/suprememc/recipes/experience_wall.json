@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mineral_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:experience_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:experience_wall",
+    "count": 6
+  }
+}

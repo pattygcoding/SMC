@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "suprememc:block/mustard_planks",
+    "side": "suprememc:block/mustard_bookshelf"
+  }
+}

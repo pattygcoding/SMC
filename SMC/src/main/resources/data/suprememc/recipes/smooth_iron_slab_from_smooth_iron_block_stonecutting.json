@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "suprememc:smooth_iron_block"
+  },
+  "result": "suprememc:smooth_iron_slab",
+  "count": 2
+}

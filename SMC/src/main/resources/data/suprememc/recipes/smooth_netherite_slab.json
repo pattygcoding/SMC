@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+   "group": "smooth_mineral_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:smooth_netherite_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:smooth_netherite_slab",
+    "count": 6
+  }
+}

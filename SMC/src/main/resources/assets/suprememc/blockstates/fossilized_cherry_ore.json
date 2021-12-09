@@ -1,0 +1,9 @@
+{
+	"variants": 
+	{
+        "":
+        { 
+        	"model": "suprememc:block/fossilized_cherry_ore" 
+        }
+    }
+}

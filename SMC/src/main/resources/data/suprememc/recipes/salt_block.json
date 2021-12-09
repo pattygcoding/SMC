@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": 
+	[
+    	"AA",
+    	"AA"
+  	],
+	"key": 
+	{
+		"A": {"item": "suprememc:salt"}
+	},
+	"result": 
+	{
+		"item": "suprememc:salt_block",
+		"count": 1
+	}
+}

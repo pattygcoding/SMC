@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:redstone_block"
+  },
+  "result": "suprememc:smooth_redstone_block",
+  "experience": 0.8,
+  "cookingtime": 200
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "suprememc:block/mustard_crafting_table_front",
+    "north": "suprememc:block/mustard_crafting_table_front",
+    "south": "suprememc:block/mustard_crafting_table_side",
+    "east": "suprememc:block/mustard_crafting_table_side",
+    "west": "suprememc:block/mustard_crafting_table_front",
+    "up": "suprememc:block/mustard_crafting_table_top",
+    "down": "suprememc:block/mustard_planks"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "suprememc:burning_diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "suprememc:burning_diamond_helmet",
+        "count": 1
+    }
+}

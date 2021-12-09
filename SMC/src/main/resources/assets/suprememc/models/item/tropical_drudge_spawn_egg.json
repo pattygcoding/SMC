@@ -1,0 +1,7 @@
+{
+   	"parent": "minecraft:item/generated",
+   	"textures": 
+   	{
+       	"layer0": "suprememc:item/tropical_drudge_spawn_egg"
+   	}
+}

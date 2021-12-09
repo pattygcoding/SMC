@@ -1,0 +1,8 @@
+{
+   "parent": "minecraft:item/generated",
+   "textures": {
+       "layer0": "suprememc:item/snow_golem_spawn_egg",
+       "layer1": "suprememc:item/snow_golem_spawn_egg",
+       "layer2": "suprememc:item/snow_golem_spawn_egg"
+   }
+}

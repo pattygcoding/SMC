@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ADA",
+    "BBB",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "suprememc:cheese"
+    },
+    "B": {
+      "item": "suprememc:tomato"
+    },
+    "C": {
+      "item": "minecraft:wheat"
+    },
+    "D": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "result": {
+    "item": "suprememc:pepperoni_pizza"
+  }
+}

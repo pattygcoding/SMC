@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+  	"suprememc:aquamarine_block",
+    "suprememc:burning_diamond_block",
+    "suprememc:ruby_block"
+  ]
+}

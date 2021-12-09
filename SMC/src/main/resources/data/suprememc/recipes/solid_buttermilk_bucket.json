@@ -1,0 +1,12 @@
+{
+  	"type": "suprememc:freezing",
+  	"ingredient": {
+    "item": "suprememc:buttermilk_bucket"
+  	},
+  	"result":
+  	{
+  	"item": "suprememc:solid_buttermilk_bucket"
+  	},
+  	"experience": 0.3,
+  	"cookingtime": 200
+}

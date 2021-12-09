@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+   "group": "brick_stairs",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:polished_andesite_bricks"
+    }
+  },
+  "result": {
+    "item": "suprememc:polished_andesite_brick_stairs",
+    "count": 4
+  }
+}

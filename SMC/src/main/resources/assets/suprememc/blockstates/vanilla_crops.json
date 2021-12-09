@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "suprememc:block/vanilla_stage0"
+    },
+    "age=1": {
+      "model": "suprememc:block/vanilla_stage1"
+    },
+    "age=2": {
+      "model": "suprememc:block/vanilla_stage2"
+    },
+    "age=3": {
+      "model": "suprememc:block/vanilla_stage3"
+    },
+    "age=4": {
+      "model": "suprememc:block/vanilla_stage4"
+    },
+    "age=5": {
+      "model": "suprememc:block/vanilla_stage5"
+    },
+    "age=6": {
+      "model": "suprememc:block/vanilla_stage6"
+    },
+    "age=7": {
+      "model": "suprememc:block/vanilla_stage7"
+    }
+  }
+}

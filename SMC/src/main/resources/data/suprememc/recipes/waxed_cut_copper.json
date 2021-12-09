@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "waxed_cut_copper",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:waxed_copper_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:waxed_cut_copper",
+    "count": 4
+  }
+}

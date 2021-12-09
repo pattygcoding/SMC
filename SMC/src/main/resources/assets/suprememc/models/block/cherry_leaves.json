@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/leaves",
+    "textures": {
+        "all": "suprememc:block/cherry_leaves"
+    }
+}

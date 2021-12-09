@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mineral_wall",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:tigers_eye_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:tigers_eye_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+   "group": "smooth_mineral_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "suprememc:smooth_redstone_block"
+    }
+  },
+  "result": {
+    "item": "suprememc:smooth_redstone_slab",
+    "count": 6
+  }
+}

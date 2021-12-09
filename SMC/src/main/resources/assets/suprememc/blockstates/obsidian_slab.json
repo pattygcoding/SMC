@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "suprememc:block/obsidian_slab" },
+        "type=top": { "model": "suprememc:block/obsidian_slab_top" },
+        "type=double": { "model": "minecraft:block/obsidian" }
+    }
+}

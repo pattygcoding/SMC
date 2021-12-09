@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "suprememc:block/mustard_nylium",
+    "bottom": "minecraft:block/netherrack",
+    "side": "suprememc:block/mustard_nylium_side"
+  }
+}

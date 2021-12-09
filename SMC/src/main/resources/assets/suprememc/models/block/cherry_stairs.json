@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": 
+    {
+        "bottom": "suprememc:block/cherry_planks",
+        "top": "suprememc:block/cherry_planks",
+        "side": "suprememc:block/cherry_planks"
+    }
+}

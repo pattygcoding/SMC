@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures":
+    {
+        "bottom": "suprememc:block/cobbled_deepslate",
+        "top": "suprememc:block/cobbled_deepslate",
+        "side": "suprememc:block/cobbled_deepslate"
+    }
+}
